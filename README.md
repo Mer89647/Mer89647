@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center"> 👋 Hi there! I’m Miren 👀 </h1>
 </div>
+<img src="https://i.imgur.com/EtLaeop.mp4">
 <img src="https://imgur.com/hPnQ1yO.png">
 
 ## Sobre mi
