@@ -8,7 +8,7 @@
 - 🐍 Currently learning Python
 - 💡 Little time, lots of dreams! 💻✨
 - 📈 Building my way into data analysis 🚀
-- 📫 You can reach me on [LinkedIn] (https://www.linkedin.com/in/miren-arribas/)
+- 📫 You can reach me on [LinkedIn] (https://www.linkedin.com/in/miren-arribas)
 <br>
 
 
